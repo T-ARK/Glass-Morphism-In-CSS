@@ -1,0 +1,69 @@
+.glass-panel {
+    color: rgb(53, 52, 52);
+    margin: 40px auto;
+    background-color: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.1);
+    width: 100%;
+    border-radius: 15px;
+    padding: 32px;
+    backdrop-filter: blur(10px);
+  }
+  
+  .glass-button {
+    display: inline-block;
+    padding: 24px 32px;
+    border: 0;
+    text-decoration: none;
+    border-radius: 15px;
+    background-color: rgba(255,255,255,0.1);
+    border: 1px solid rgba(255,255,255,0.1);
+    backdrop-filter: blur(30px);
+    color: rgba(47, 47, 48, 0.8);
+    font-size: 14px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    text-transform: uppercase;
+  }
+  
+  .glass-button:hover {
+    background-color: rgba(255,255,255,0.2);
+  }
+  body {
+    background: url(https://cdn.wallpapersafari.com/0/62/HEv0sw.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .glass-panel {  
+    max-width: 300px;
+    height: 530px;
+  }
+  
+  .glass-button {
+    margin: 15px;
+    margin-top: 40px;
+  }
+  
+  h1, h1 a {
+    min-height: 80px;
+    width: 90%;
+    max-width: 700px;
+    vertical-align: middle;
+    text-align: center;
+    margin: 0 auto;
+    text-decoration: none;
+    color: rgb(51, 51, 51);
+    padding-top: 30px;
+    color: rgba(54, 54, 54, 0.8);
+  }
+  
+  p {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 32px;
+    color: rgba(37, 37, 37, 0.6);
+  }
