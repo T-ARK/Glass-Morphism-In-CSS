@@ -3,21 +3,19 @@
 
 ## Website
 
-- [GlassMorphism](https://technoid-ark.github.io/Glass-Morphism-In-CSS/)
+- [GlassMorphism](https://t-ark.github.io/Glass-Morphism-In-CSS/)
 
 
 ## Screenshots
 
-![App Screenshot](glass.png)
+![App Screenshot](.png)
 
 
 
 ## Authors
 
-- [@technoid_ark](https://www.instagram.com/technoid_ark/)
+- [@t_ark](https://www.instagram.com/technoid_ark/)
 
 
-## 🔗 Links
-- [Instagram](https://instagram.com/technoid_ark/)
-- [LinkedIn](https://www.linkedin.com/in/technoid-ark-322963253/)
+
 
